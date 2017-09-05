@@ -1,0 +1,23 @@
+{
+  "name": "phaserballgame",
+  "version": "1.0.0",
+  "description": "Phaser Game",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichaelDurfey/PhaserBallGame.git"
+  },
+  "author": "Michael Durfey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MichaelDurfey/PhaserBallGame/issues"
+  },
+  "homepage": "https://github.com/MichaelDurfey/PhaserBallGame#readme",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.15.4"
+  }
+}
